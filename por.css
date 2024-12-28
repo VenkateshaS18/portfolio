@@ -23,9 +23,6 @@ padding-left: 500px;
 margin: 0 auto;
 font-weight: bold;
 }
-a{
-color: black;
-}
 
 #a11{
 position: relative;
@@ -74,3 +71,12 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
    
 } 
+a:link{
+    color: rgb(48, 48, 143);
+}
+a:visited{
+    color: rgb(11, 12, 11);
+}
+a:hover{
+    color:rgb(48, 48, 143); ;
+}
